@@ -18,6 +18,8 @@ mongod (leave this running and open a new tab)
 
 mongo < db/seeds.js (this will enter the leaderboard seed data. This is not necessary for functionality)
 
+Open up your browser and head to your localhost port 3000
+
 Prerequisite JS Packages:
 
 MongoDB 3.1.13
